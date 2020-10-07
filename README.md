@@ -11,7 +11,7 @@ Docker (latest should work)
 Requests 2.1
 ```
 
-### Stpes to execute our code:
+### Steps to execute our code:
 1. Install Docker
 
 2. docker run hello-world
